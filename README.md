@@ -1,5 +1,5 @@
-# PWD Mobile Client
-แอปพลิเคชันจัดเก็บรายได้สำหรับกองการประปา
+# Thermal Printer
+แอปพลิเคชันสำหรับทดสอบเครื่อง Barcode Thermal Printer
 
 ### Run build
 ```
